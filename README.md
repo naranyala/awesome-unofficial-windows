@@ -12,6 +12,8 @@ These projects are **not affiliated with or endorsed by Microsoft**. Most of the
 - [Custom Windows Builds](#custom-windows-builds)
 - [Bootable Media](#bootable-media)
 - [Package Management](#package-management)
+- [App Discovery & Catalogs](#app-discovery--catalogs)
+- [Unofficial Replacements for Built-in Apps](#unofficial-replacements-for-built-in-apps)
 - [Shell & Explorer](#shell--explorer)
 - [Customization & Theming](#customization--theming)
 - [Window Management & Launchers](#window-management--launchers)
@@ -70,6 +72,44 @@ Community-repackaged Windows images with performance, privacy, or UI changes pre
 - [UniGetUI](https://github.com/Devolutions/UniGetUI) - GUI front end for winget, Scoop, Chocolatey, pip, and npm with unified upgrade notifications.
 - [Ninite](https://ninite.com) - Batch installer that silently deploys a pick-and-choose list of popular apps with sane defaults and no toolbars.
 
+## App Discovery & Catalogs
+
+- [awesome-windows](https://github.com/0PandaDEV/awesome-windows) - Curated list of tools and apps for Windows 10/11.
+- [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile.
+- [Fossies](https://fossies.org/) - Source code archive with Windows builds of open-source projects.
+- [lib.rs](https://lib.rs/) - Rust apps with Windows builds.
+- [winstall.app](https://winstall.app/) - Web-based GUI for winget, generates install scripts.
+- [Fosshub](https://fosshub.com/) - Host for free/open-source software, includes Windows builds.
+- [AlternativeTo](https://alternativeto.net/) - Alternative software recommendations.
+- [FileHorse](https://www.filehorse.com/) - Software download site.
+- [Softpedia](https://www.softpedia.com/) - Download site.
+- [Uptodown](https://www.uptodown.com/) - Download site.
+- [PortableFreeware](https://www.portablefreeware.org/) - Portable app directory.
+- [win32modern.com](https://win32modern.com/) - Modern Windows apps.
+
+## Unofficial Replacements for Built-in Apps
+
+- [Files](https://github.com/files-community/Files) - Explorer replacement with tabs and modern UI.
+- [Double Commander](https://github.com/doublecmd) - Dual-pane file manager.
+- [Notepad4](https://github.com/zufuliu/notepad4) - Lightweight Scintilla-based text editor.
+- [Paint.NET](https://www.getpaint.net/) - Paint replacement with layers and effects.
+- [ImageGlass](https://github.com/d2phap/ImageGlass) - Photos viewer replacement.
+- [mpv](https://github.com/mpv-player/mpv) - Media player.
+- [ShareX](https://github.com/ShareX/ShareX) - Screenshot and screen recording tool.
+- [Ditto](https://github.com/sabrogden/Ditto) - Clipboard manager.
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Volume control with per-app mixing.
+- [Alacritty](https://github.com/alacritty/alacritty) - GPU-accelerated terminal.
+- [Tabby](https://github.com/Eugeny/tabby) - Terminal with SSH and serial support.
+- [NanaZip](https://github.com/M2Team/NanaZip) - 7-Zip fork with modern UI.
+- [SumatraPDF](https://www.sumatrapdfreader.org/) - PDF reader.
+- [WizTree](https://diskanalyzer.com/) - Disk usage analyzer.
+- [BleachBit](https://github.com/bleachbit/bleachbit) - System cleaner.
+- [Lively Wallpaper](https://github.com/rocksdanister/lively) - Animated wallpaper engine.
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language) - DISM GUI for image management.
+- [gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows.
+- [WinSCP](https://github.com/winscp/winscp) - FTP/SFTP client.
+- [GitExtensions](https://github.com/gitextensions/gitextensions) - Git GUI.
+
 ## Shell & Explorer
 
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Restores the classic taskbar, Start menu, and tray behavior on Windows 10/11.
@@ -96,6 +136,10 @@ Community-repackaged Windows images with performance, privacy, or UI changes pre
 - [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - The classic macro and automation scripting language for remapping keys, strings, and whole workflows.
 - [clink](https://github.com/chrisant996/clink) - Adds Bash-style line editing, completion, and history to the stock `cmd.exe` prompt.
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Prompt theme engine for PowerShell, cmd, Bash, and Fish with repository status and status-line widgets.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Fast search tool.
+- [fzf](https://github.com/junegunn/fzf) - Fuzzy finder.
+- [bat](https://github.com/sharkdp/bat) - Cat with syntax highlighting.
+- [eza](https://github.com/eza-community/eza) - Modern ls replacement.
 
 ## Security & Hardening
 
