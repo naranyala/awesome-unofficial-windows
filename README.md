@@ -34,6 +34,8 @@ These projects are **not affiliated with or endorsed by Microsoft**. Most of the
 
 ## Debloat & Privacy
 
+- [PrivacyDot](https://github.com/farflashgroup/PrivacyDot) - Windows tray indicator for detected microphone and camera activity, with apps grouped by device.
+
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Simple, lightweight PowerShell script to remove preinstalled apps, disable telemetry, and declutter Windows 10/11.
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - PowerShell scripts and a GUI for stripping bloatware and telemetry from Windows 10.
 - [debloat-windows-10](https://github.com/W4RH4WK/debloat-windows-10) - Script suite that debloats, tweaks, and hardens a fresh Windows 10 installation.
