@@ -130,6 +130,7 @@ Community-repackaged Windows images with performance, privacy, or UI changes pre
 - [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager for Windows inspired by i3, controlled entirely from the keyboard.
 - [komorebi](https://github.com/LGUG2Z/komorebi) - Dynamic tiling window manager for Windows with a Rust core and scripting via a shippable CLI.
 - [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - Quick file search and app launcher with community plugins, hotkeys, and calculation built in.
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Windows 11 preview that opens apps, browser profiles, and URLs in chosen display layouts on a configurable hold shortcut.
 
 ## CLI & Automation
 
